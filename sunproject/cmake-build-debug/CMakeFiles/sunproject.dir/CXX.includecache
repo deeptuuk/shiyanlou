@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/deeptuuk/shiyanlou/sunproject/main.cpp
+iostream
+-
+GL/glut.h
+-
+solarsystem.h
+/home/deeptuuk/shiyanlou/sunproject/solarsystem.h
+
+/home/deeptuuk/shiyanlou/sunproject/solarsystem.h
+GL/gl.h
+-
+GL/glut.h
+-
+stars.h
+/home/deeptuuk/shiyanlou/sunproject/stars.h
+
+/home/deeptuuk/shiyanlou/sunproject/stars.h
+GL/gl.h
+-
+GL/glut.h
+-
+

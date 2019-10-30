@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstars.a  CMakeFiles/stars.dir/stars.cpp.o
+/usr/bin/ranlib libstars.a

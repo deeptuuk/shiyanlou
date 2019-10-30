@@ -1,0 +1,5 @@
+/home/deeptuuk/shiyanlou/sunproject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/deeptuuk/shiyanlou/sunproject/cmake-build-debug/CMakeFiles/sunproject.dir
+/home/deeptuuk/shiyanlou/sunproject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/deeptuuk/shiyanlou/sunproject/cmake-build-debug/CMakeFiles/solarsystem.dir
+/home/deeptuuk/shiyanlou/sunproject/cmake-build-debug/CMakeFiles/stars.dir
